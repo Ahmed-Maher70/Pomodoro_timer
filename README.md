@@ -48,5 +48,4 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 
 ## Screenshot
 
-<!-- Add the screenshot of the Pomodoro app here -->
 ![Screenshot 2024-09-15 135717](https://github.com/user-attachments/assets/1baeb352-6e18-438d-99f4-0b4134b7d24d)
